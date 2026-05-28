@@ -1,22 +1,28 @@
-# --- System Files ---
+# System Files
 .DS_Store
-Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
-# --- Environment / Secrets ---
+# Environment Variables
 .env
 *.local
 
-# --- Dependencies ---
+# Dependencies
 node_modules/
 /node_modules/
 
-# --- Build and Output Directories ---
+# Production / Build Outputs
 /build/
 dist
 dist-ssr
+
+# Frameworks (React Router, Vite, etc.)
 /.react-router/
 
-# --- Logs ---
+# Logs
 logs
 *.log
 npm-debug.log*
@@ -25,20 +31,10 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# --- IDEs and Editors ---
-# VS Code
+# Editor directories and files
 .vscode/*
 !.vscode/extensions.json
+.idea
 
-# JetBrains (WebStorm, Rider, IntelliJ, etc.)
-.idea/
-
-# Visual Studio / .NET
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-
-# AI Tools
+# AI Assistants
 .claude
