@@ -1,6 +1,6 @@
-## Hermex - Plataforma de Aluguel de Veículos 
+## CarHub | Hermex - Plataforma de Aluguel de Veículos 
 
-O Hermex é uma aplicação web moderna voltada para a locação e reserva de carros. A plataforma permite que os usuários explorem o catálogo de veículos, filtrem por categorias e consultem detalhes completos para facilitar a escolha do carro ideal. Durante o desenvolvimento, foram aplicados conceitos fundamentais do framework Remix, incluindo: Fundamentos e arquitetura do Remix; Migração de bases e criação de componentes reutilizáveis; Integração de telas e consumo de dados utilizando Loaders; Implementação e manipulação de formulários utilizando Actions.
+O CarHub | Hermex é uma aplicação web moderna voltada para a locação e reserva de carros. A plataforma permite que os usuários explorem o catálogo de veículos, filtrem por categorias e consultem detalhes completos para facilitar a escolha do carro ideal. Durante o desenvolvimento, foram aplicados conceitos fundamentais do framework Remix, incluindo: Fundamentos e arquitetura do Remix; Migração de bases e criação de componentes reutilizáveis; Integração de telas e consumo de dados utilizando Loaders; Implementação e manipulação de formulários utilizando Actions.
 
 ## Tecnologias Utilizadas
 
